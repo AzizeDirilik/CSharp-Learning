@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Azize\\source\\repos\\C#\\C#\\ClassIntro.csproj",
-      "projectName": "ClassIntro",
-      "projectPath": "C:\\Users\\Azize\\source\\repos\\C#\\C#\\ClassIntro.csproj",
+      "projectUniqueName": "C:\\Users\\Azize\\source\\repos\\C#\\ClassMethodDemo\\ClassMethodDemo.csproj",
+      "projectName": "ClassMethodDemo",
+      "projectPath": "C:\\Users\\Azize\\source\\repos\\C#\\ClassMethodDemo\\ClassMethodDemo.csproj",
       "packagesPath": "C:\\Users\\Azize\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Azize\\source\\repos\\C#\\C#\\obj\\",
+      "outputPath": "C:\\Users\\Azize\\source\\repos\\C#\\ClassMethodDemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Azize\\AppData\\Roaming\\NuGet\\NuGet.Config",
