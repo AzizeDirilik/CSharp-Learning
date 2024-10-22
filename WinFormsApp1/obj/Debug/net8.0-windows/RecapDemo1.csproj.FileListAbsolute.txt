@@ -1,0 +1,17 @@
+C:\Users\Azize\source\repos\C#\WinFormsApp1\bin\Debug\net8.0-windows\RecapDemo1.exe
+C:\Users\Azize\source\repos\C#\WinFormsApp1\bin\Debug\net8.0-windows\RecapDemo1.deps.json
+C:\Users\Azize\source\repos\C#\WinFormsApp1\bin\Debug\net8.0-windows\RecapDemo1.runtimeconfig.json
+C:\Users\Azize\source\repos\C#\WinFormsApp1\bin\Debug\net8.0-windows\RecapDemo1.dll
+C:\Users\Azize\source\repos\C#\WinFormsApp1\bin\Debug\net8.0-windows\RecapDemo1.pdb
+C:\Users\Azize\source\repos\C#\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Azize\source\repos\C#\WinFormsApp1\obj\Debug\net8.0-windows\RecapDemo1.csproj.GenerateResource.cache
+C:\Users\Azize\source\repos\C#\WinFormsApp1\obj\Debug\net8.0-windows\RecapDemo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Azize\source\repos\C#\WinFormsApp1\obj\Debug\net8.0-windows\RecapDemo1.AssemblyInfoInputs.cache
+C:\Users\Azize\source\repos\C#\WinFormsApp1\obj\Debug\net8.0-windows\RecapDemo1.AssemblyInfo.cs
+C:\Users\Azize\source\repos\C#\WinFormsApp1\obj\Debug\net8.0-windows\RecapDemo1.csproj.CoreCompileInputs.cache
+C:\Users\Azize\source\repos\C#\WinFormsApp1\obj\Debug\net8.0-windows\RecapDemo1.sourcelink.json
+C:\Users\Azize\source\repos\C#\WinFormsApp1\obj\Debug\net8.0-windows\RecapDemo1.dll
+C:\Users\Azize\source\repos\C#\WinFormsApp1\obj\Debug\net8.0-windows\refint\RecapDemo1.dll
+C:\Users\Azize\source\repos\C#\WinFormsApp1\obj\Debug\net8.0-windows\RecapDemo1.pdb
+C:\Users\Azize\source\repos\C#\WinFormsApp1\obj\Debug\net8.0-windows\RecapDemo1.genruntimeconfig.cache
+C:\Users\Azize\source\repos\C#\WinFormsApp1\obj\Debug\net8.0-windows\ref\RecapDemo1.dll
