@@ -1,0 +1,15 @@
+C:\Users\Azize\source\repos\C#\InterfacesDemo\bin\Debug\net8.0\InterfacesDemo.exe
+C:\Users\Azize\source\repos\C#\InterfacesDemo\bin\Debug\net8.0\InterfacesDemo.deps.json
+C:\Users\Azize\source\repos\C#\InterfacesDemo\bin\Debug\net8.0\InterfacesDemo.runtimeconfig.json
+C:\Users\Azize\source\repos\C#\InterfacesDemo\bin\Debug\net8.0\InterfacesDemo.dll
+C:\Users\Azize\source\repos\C#\InterfacesDemo\bin\Debug\net8.0\InterfacesDemo.pdb
+C:\Users\Azize\source\repos\C#\InterfacesDemo\obj\Debug\net8.0\InterfacesDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Azize\source\repos\C#\InterfacesDemo\obj\Debug\net8.0\InterfacesDemo.AssemblyInfoInputs.cache
+C:\Users\Azize\source\repos\C#\InterfacesDemo\obj\Debug\net8.0\InterfacesDemo.AssemblyInfo.cs
+C:\Users\Azize\source\repos\C#\InterfacesDemo\obj\Debug\net8.0\InterfacesDemo.csproj.CoreCompileInputs.cache
+C:\Users\Azize\source\repos\C#\InterfacesDemo\obj\Debug\net8.0\InterfacesDemo.sourcelink.json
+C:\Users\Azize\source\repos\C#\InterfacesDemo\obj\Debug\net8.0\InterfacesDemo.dll
+C:\Users\Azize\source\repos\C#\InterfacesDemo\obj\Debug\net8.0\refint\InterfacesDemo.dll
+C:\Users\Azize\source\repos\C#\InterfacesDemo\obj\Debug\net8.0\InterfacesDemo.pdb
+C:\Users\Azize\source\repos\C#\InterfacesDemo\obj\Debug\net8.0\InterfacesDemo.genruntimeconfig.cache
+C:\Users\Azize\source\repos\C#\InterfacesDemo\obj\Debug\net8.0\ref\InterfacesDemo.dll

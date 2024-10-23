@@ -37,6 +37,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3", "OOP3\OOP3.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecapDemo1", "WinFormsApp1\RecapDemo1.csproj", "{21080ABA-1CFE-4AEB-BBDE-B9968C020E6F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{7665459F-F185-495E-9A3E-F89E09911169}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesDemo", "InterfacesDemo\InterfacesDemo.csproj", "{B1B6A253-7B67-4037-BD81-7B8B0E54DDAF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +115,14 @@ Global
 		{21080ABA-1CFE-4AEB-BBDE-B9968C020E6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21080ABA-1CFE-4AEB-BBDE-B9968C020E6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{21080ABA-1CFE-4AEB-BBDE-B9968C020E6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7665459F-F185-495E-9A3E-F89E09911169}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7665459F-F185-495E-9A3E-F89E09911169}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7665459F-F185-495E-9A3E-F89E09911169}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7665459F-F185-495E-9A3E-F89E09911169}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1B6A253-7B67-4037-BD81-7B8B0E54DDAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1B6A253-7B67-4037-BD81-7B8B0E54DDAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1B6A253-7B67-4037-BD81-7B8B0E54DDAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1B6A253-7B67-4037-BD81-7B8B0E54DDAF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
