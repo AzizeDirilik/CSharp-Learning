@@ -1,0 +1,15 @@
+C:\Users\Azize\source\repos\C#\OPP2\bin\Debug\net8.0\OOP2.exe
+C:\Users\Azize\source\repos\C#\OPP2\bin\Debug\net8.0\OOP2.deps.json
+C:\Users\Azize\source\repos\C#\OPP2\bin\Debug\net8.0\OOP2.runtimeconfig.json
+C:\Users\Azize\source\repos\C#\OPP2\bin\Debug\net8.0\OOP2.dll
+C:\Users\Azize\source\repos\C#\OPP2\bin\Debug\net8.0\OOP2.pdb
+C:\Users\Azize\source\repos\C#\OPP2\obj\Debug\net8.0\OOP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Azize\source\repos\C#\OPP2\obj\Debug\net8.0\OOP2.AssemblyInfoInputs.cache
+C:\Users\Azize\source\repos\C#\OPP2\obj\Debug\net8.0\OOP2.AssemblyInfo.cs
+C:\Users\Azize\source\repos\C#\OPP2\obj\Debug\net8.0\OOP2.csproj.CoreCompileInputs.cache
+C:\Users\Azize\source\repos\C#\OPP2\obj\Debug\net8.0\OOP2.sourcelink.json
+C:\Users\Azize\source\repos\C#\OPP2\obj\Debug\net8.0\OOP2.dll
+C:\Users\Azize\source\repos\C#\OPP2\obj\Debug\net8.0\refint\OOP2.dll
+C:\Users\Azize\source\repos\C#\OPP2\obj\Debug\net8.0\OOP2.pdb
+C:\Users\Azize\source\repos\C#\OPP2\obj\Debug\net8.0\OOP2.genruntimeconfig.cache
+C:\Users\Azize\source\repos\C#\OPP2\obj\Debug\net8.0\ref\OOP2.dll

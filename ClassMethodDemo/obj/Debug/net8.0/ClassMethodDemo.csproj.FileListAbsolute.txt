@@ -1,0 +1,15 @@
+C:\Users\Azize\source\repos\C#\ClassMethodDemo\bin\Debug\net8.0\ClassMethodDemo.exe
+C:\Users\Azize\source\repos\C#\ClassMethodDemo\bin\Debug\net8.0\ClassMethodDemo.deps.json
+C:\Users\Azize\source\repos\C#\ClassMethodDemo\bin\Debug\net8.0\ClassMethodDemo.runtimeconfig.json
+C:\Users\Azize\source\repos\C#\ClassMethodDemo\bin\Debug\net8.0\ClassMethodDemo.dll
+C:\Users\Azize\source\repos\C#\ClassMethodDemo\bin\Debug\net8.0\ClassMethodDemo.pdb
+C:\Users\Azize\source\repos\C#\ClassMethodDemo\obj\Debug\net8.0\ClassMethodDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Azize\source\repos\C#\ClassMethodDemo\obj\Debug\net8.0\ClassMethodDemo.AssemblyInfoInputs.cache
+C:\Users\Azize\source\repos\C#\ClassMethodDemo\obj\Debug\net8.0\ClassMethodDemo.AssemblyInfo.cs
+C:\Users\Azize\source\repos\C#\ClassMethodDemo\obj\Debug\net8.0\ClassMethodDemo.csproj.CoreCompileInputs.cache
+C:\Users\Azize\source\repos\C#\ClassMethodDemo\obj\Debug\net8.0\ClassMethodDemo.sourcelink.json
+C:\Users\Azize\source\repos\C#\ClassMethodDemo\obj\Debug\net8.0\ClassMethodDemo.dll
+C:\Users\Azize\source\repos\C#\ClassMethodDemo\obj\Debug\net8.0\refint\ClassMethodDemo.dll
+C:\Users\Azize\source\repos\C#\ClassMethodDemo\obj\Debug\net8.0\ClassMethodDemo.pdb
+C:\Users\Azize\source\repos\C#\ClassMethodDemo\obj\Debug\net8.0\ClassMethodDemo.genruntimeconfig.cache
+C:\Users\Azize\source\repos\C#\ClassMethodDemo\obj\Debug\net8.0\ref\ClassMethodDemo.dll

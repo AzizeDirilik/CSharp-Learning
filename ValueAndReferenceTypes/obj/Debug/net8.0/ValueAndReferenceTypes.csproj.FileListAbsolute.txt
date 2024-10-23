@@ -1,0 +1,15 @@
+C:\Users\Azize\source\repos\C#\ValueAndReferenceTypes\bin\Debug\net8.0\ValueAndReferenceTypes.exe
+C:\Users\Azize\source\repos\C#\ValueAndReferenceTypes\bin\Debug\net8.0\ValueAndReferenceTypes.deps.json
+C:\Users\Azize\source\repos\C#\ValueAndReferenceTypes\bin\Debug\net8.0\ValueAndReferenceTypes.runtimeconfig.json
+C:\Users\Azize\source\repos\C#\ValueAndReferenceTypes\bin\Debug\net8.0\ValueAndReferenceTypes.dll
+C:\Users\Azize\source\repos\C#\ValueAndReferenceTypes\bin\Debug\net8.0\ValueAndReferenceTypes.pdb
+C:\Users\Azize\source\repos\C#\ValueAndReferenceTypes\obj\Debug\net8.0\ValueAndReferenceTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Azize\source\repos\C#\ValueAndReferenceTypes\obj\Debug\net8.0\ValueAndReferenceTypes.AssemblyInfoInputs.cache
+C:\Users\Azize\source\repos\C#\ValueAndReferenceTypes\obj\Debug\net8.0\ValueAndReferenceTypes.AssemblyInfo.cs
+C:\Users\Azize\source\repos\C#\ValueAndReferenceTypes\obj\Debug\net8.0\ValueAndReferenceTypes.csproj.CoreCompileInputs.cache
+C:\Users\Azize\source\repos\C#\ValueAndReferenceTypes\obj\Debug\net8.0\ValueAndReferenceTypes.sourcelink.json
+C:\Users\Azize\source\repos\C#\ValueAndReferenceTypes\obj\Debug\net8.0\ValueAndReferenceTypes.dll
+C:\Users\Azize\source\repos\C#\ValueAndReferenceTypes\obj\Debug\net8.0\refint\ValueAndReferenceTypes.dll
+C:\Users\Azize\source\repos\C#\ValueAndReferenceTypes\obj\Debug\net8.0\ValueAndReferenceTypes.pdb
+C:\Users\Azize\source\repos\C#\ValueAndReferenceTypes\obj\Debug\net8.0\ValueAndReferenceTypes.genruntimeconfig.cache
+C:\Users\Azize\source\repos\C#\ValueAndReferenceTypes\obj\Debug\net8.0\ref\ValueAndReferenceTypes.dll
