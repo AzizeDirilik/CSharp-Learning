@@ -18,7 +18,7 @@ namespace GameDemo.Concrete
         }
         public void Add(Player player)
         {
-            if (_playerCheckService.PlayerIfRealPerson(player))
+            if (_playerCheckService.PlayerIfRealPerson(player) == true)
             {
                 Console.WriteLine(player.FirstName + " isimli oyuncu eklendi");
 

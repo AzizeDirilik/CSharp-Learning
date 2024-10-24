@@ -12,6 +12,7 @@ namespace GameDemo.Concrete
     {
         public bool PlayerIfRealPerson(Player player)
         {
+
             return true;
         }
     }
